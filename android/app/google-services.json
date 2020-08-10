@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021292103157",
+    "firebase_url": "https://chatapptutorial-1a94e.firebaseio.com",
+    "project_id": "chatapptutorial-1a94e",
+    "storage_bucket": "chatapptutorial-1a94e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021292103157:android:813ba02ce8e44635a70cbc",
+        "android_client_info": {
+          "package_name": "com.suthirak.chat_app_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021292103157-mapoccjd01nu03hj1oiptd03u1t295kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnE999FlUkVMGrmn8xr0goQ752Y6s6PdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021292103157-mapoccjd01nu03hj1oiptd03u1t295kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
